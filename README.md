@@ -1,0 +1,1 @@
+# DesignPatterns_DotNet_Projet_RestaurantAPI_Squelette
